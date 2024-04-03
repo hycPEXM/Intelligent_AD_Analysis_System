@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Img/exit.png</file>
+        <file>Img/ad_checked.png</file>
+        <file>Img/ad.png</file>
+        <file>Img/keshihua_checked.png</file>
+        <file>Img/keshihua.png</file>
+        <file>Img/lishijilu_checked.png</file>
+        <file>Img/lishijilu.png</file>
+        <file>Img/xiangyou_diable.png</file>
+        <file>Img/xiangyou.png</file>
+        <file>Img/xiangzuo_diable.png</file>
+        <file>Img/xiangzuo.png</file>
+        <file>Img/shezhi_checked.png</file>
+        <file>Img/shezhi.png</file>
+        <file>Img/avatar.jpg</file>
+        <file>Img/rtsp.png</file>
+        <file>Img/rtsp_checked.png</file>
+        <file>Img/close.png</file>
+        <file>Img/summary_checked.png</file>
+        <file>Img/summary.png</file>
+    </qresource>
+    <qresource prefix="/Advertisement">
+        <file>Advertisement/1.JPG</file>
+        <file>Advertisement/2.JPG</file>
+        <file>Advertisement/3.JPG</file>
+        <file>Advertisement/4.JPG</file>
+        <file>Advertisement/5.JPG</file>
+    </qresource>
+</RCC>
